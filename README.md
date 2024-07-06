@@ -1,4 +1,10 @@
-# IBM CB0101EN Build Your Own Chatbot
+<h1 align="center">IBM CB0101EN Build Your Own Chatbot</h1>
+
+# My Certification Badge
+
+Check out my certification badge below:
+
+[![Certification Badge](https://images.credly.com/size/150x270/images/36ea618a-0e41-48cc-9fb1-68ecc5bfe1a8.png)](https://www.credly.com/badges/36ea618a-0e41-48cc-9fb1-68ecc5bfe1a8/public_url)
 
 Welcome to my "Build Your Own Chatbot" course! This repository contains resources and information to help you plan, build, and deploy your first customer support chatbot using IBM Watson Assistant. This course is designed to be practical and user-friendly, requiring no prior coding experience.
 
