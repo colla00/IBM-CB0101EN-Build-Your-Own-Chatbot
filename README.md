@@ -14,20 +14,6 @@ This chatbot course provides a practical introduction to chatbot development. Yo
 - **IBM Watson Assistant**: Leverage the cognitive computing power of IBM Watson Assistant.
 - **Quick Deployment**: Easily deploy your chatbot on WordPress-based sites.
 
-## Course Details
-
-- **Duration**: 3 hours
-- **Activity ID**: SN-COURSE-V1:IBMDEVELOPERSKILLSNETWORK+CB0101EN+V1
-- **Provider**: Skills Network
-- **Contributed by**: SkillsBuild (mattlm@us.ibm.com)
-- **Available Since**: 30 Jun 2021
-- **Tags**: 
-  - DigN Journey
-  - Innovators
-  - Technical skills - Artificial Intelligence
-  - Artificial intelligence (Primary)
-  - Customer Support Skill (Lightcast Skills Taxonomy)
-
 ## Learning Outcomes
 
 By the end of this course, you will be able to:
